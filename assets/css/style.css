@@ -1,0 +1,82 @@
+body {
+	background-image: url("../images/background.jpg");
+	font-family: 'Crete Round', serif;
+	color: #000080;
+	font-weight: 700;
+}
+
+#container {
+	background-color: yellow;
+	height: 600px;
+	width: 75%;
+	text-align: center;
+	margin: 100px 0 0 200px;
+	border: 2px solid red;
+}
+
+#start {
+	height: 200px;
+	width: 500px;
+	font-family: 'Crete Round', serif;
+	font-weight: 900;
+	font-size: 50px;
+	background-color: #0020C2;
+	color: white;
+}
+
+#header {
+	font-size: 60px;
+	padding-top: 10px;
+}
+
+#main-content {
+	padding-top: 10%;
+}
+
+#time-remaining {
+	font-size: 40px;
+	padding-bottom: 25px;
+}
+
+#questions {
+	font-size: 35px;
+	padding-bottom: 25px;
+}
+
+input {
+	height: 50px;
+	width: 500px;
+	font-family: 'Crete Round', serif;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+#choices {
+	font-family: 'Crete Round', serif;
+	font-size: 40px;
+	font-weight: 700;
+}
+
+#reset {
+	height: 100px;
+	width: 300px;
+	font-family: 'Crete Round', serif;
+	font-weight: 700;
+	font-size: 30px;
+	margin-top: 30px;
+	background-color: #0020C2;
+	color: white;
+}
+
+input:hover {
+	 opacity: 0.5;
+}
+
+button:hover {
+	opacity: 0.5;
+}
+
+img {
+	height: 225px;
+	width: 200px;
+}
